@@ -71,6 +71,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite",
+      "title": "Persisting FastAPI Data with SQLite",
+      "description": "Extend a FastAPI CRUD API to save and retrieve task data with SQLite.",
+      "path": "assignments/fastapi-sqlite",
+      "dueDate": "2026-11-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
